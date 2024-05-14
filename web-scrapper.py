@@ -1,4 +1,4 @@
-import requests as req #importing the requests library as req
+import requests as req # importing the requests library as req
 
 #Staring our main function from here
 def web_scrapper(url):
@@ -9,7 +9,7 @@ def web_scrapper(url):
             file.write(format_response(url,response.text))  #Saving the response to response.txt file
         print(f"Sucessfully scrapped {url} and saved to response.txt") # Printing a sucess message
     except req.exceptions.RequestException as err:
-        print(f"Error scrapping {url}: {err}") #If an exception occurs, it will be helpful to alert the user
+        print(f"Error scrapping {url}: {err}") # If an exception occurs, we will print it
 
 
 def take_input():
