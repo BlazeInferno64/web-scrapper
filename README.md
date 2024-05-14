@@ -102,12 +102,11 @@ if __name__ == "__main__":
 <br>
 <br>
  That's all for this simple web scrapper!
-<br>
+
 
 `
 Thanks for reading :)
 `
-
 `
 Have an absolutely fantastic day ahead :D
 `
