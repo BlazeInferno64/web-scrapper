@@ -107,6 +107,7 @@ if __name__ == "__main__":
 `
 Thanks for reading :)
 `
+<br>
 `
 Have an absolutely fantastic day ahead :D
 `
